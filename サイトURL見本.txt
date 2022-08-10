@@ -1,0 +1,16 @@
+C:\xampp\htdocs
+
+以下フォルダに対象の資材を格納
+
+格納完了後
+
+http://localhost/
+配下に対象の資材URLを投入して確認が可能
+
+
+■参考例
+C:\xampp\htdocs
+└sample.php
+
+接続url
+http://localhost/sample.php

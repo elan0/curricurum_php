@@ -42,15 +42,16 @@
         height: 170px;
     }
     .right-inner{
-        margin-top: 10px;
+        margin:10px 10px;
         width: 140px;
         height: 50px;
         background-color: white;
     }
     .ri{
-        margin: auto;
+        float:left;
+        margin:5px 10px;
         width: 120px;
-        height: 45px;
+        height: 40px;
         background-color: #ff863f;
     }
     .footer{
